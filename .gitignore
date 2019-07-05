@@ -1,15 +1,5 @@
 
 .metadata
-MyProjectOne/.settings
-MyProjectOne/target
-MyProjectOne/.classpath
-MyProjectOne/.project
-
-
-RemoteSystemsTempFiles
-
-trial-application-one/.settings
-trial-application-one/build
-trial-application-one/.classpath
-trial-application-one/.project
-
+.settings
+target
+.classpath
