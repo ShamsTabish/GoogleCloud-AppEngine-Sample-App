@@ -85,6 +85,7 @@
 				<version>${appengine.maven.plugin.version}</version>
 				<configuration>
 					<deploy.projectId>trial-application-one</deploy.projectId>
+					<deploy.version>1</deploy.version>
 				</configuration>
 			</plugin>
 
